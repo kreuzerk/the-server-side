@@ -1,0 +1,3 @@
+/crew-member/1
+/crew-member/2
+/crew-member/3
